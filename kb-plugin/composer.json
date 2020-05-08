@@ -15,5 +15,8 @@
         "psr-4": {
             "Inc\\": "./inc"
         }
+    },
+    "require-dev": {
+        "giacocorsiglia/wordpress-stubs": "dev-master"
     }
 }
